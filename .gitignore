@@ -1,0 +1,6 @@
+backend/service-account.json
+*.json
+.env
+.env.local
+node_modules/
+__pycache__/
